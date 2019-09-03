@@ -8,3 +8,4 @@ for(pr in 1:(K-1)){
   xi[pr,pr:(K-1)] <- ele_clc[1:(K-pr)]
 }
 xi[lower.tri(xi)] <- t(xi)[lower.tri(xi)]
+xi
