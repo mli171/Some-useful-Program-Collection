@@ -5,6 +5,7 @@ This folder contains some life-easily-used Rrograms.
 1. del_dup_photos.R<br/>
 2. 3_d_matrix_value_check.R<br/>
 3. AR_correlation matrix.R<br/>
+4. ValueCheck.R<br/>
 
 ## Program Instruction: <br/>
 1. del_dup_photos.R <br/>
@@ -16,3 +17,6 @@ The program is using for checking and comparing values from square matrix only, 
 
 3. AR_correlation matrix.R<br/>
 Used for Formulation of AR type correlation matrix. <br/>
+
+4. ValueCheck.R<br/>
+Used for checking value in Score/Norm/Objective function values. <br/>
