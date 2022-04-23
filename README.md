@@ -6,6 +6,7 @@ This folder contains some life-easily-used Rrograms.
 2. 3_d_matrix_value_check.R<br/>
 3. AR_correlation matrix.R<br/>
 4. ValueCheck.R<br/>
+5. MatrixSquareRoot.R<br/>
 
 ## Program Instruction: <br/>
 1. del_dup_photos.R <br/>
@@ -20,3 +21,6 @@ Used for Formulation of AR type correlation matrix. <br/>
 
 4. ValueCheck.R<br/>
 Used for checking value in Score/Norm/Objective function values. <br/>
+
+5. MatrixSquareRoot.R<br/>
+Find the suqre root of a positive definite matrix for matrix standardization. <br/>
