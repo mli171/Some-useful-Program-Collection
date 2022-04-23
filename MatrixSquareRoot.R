@@ -2,8 +2,6 @@
 # reference from https://stackoverflow.com/questions/28227111/square-root-of-a-singular-matrix-in-r
 
 matrix.sqrt = function(A){
-  require(matrixcalc)
-  if(!is.positive.definite(A)){stop("Please input positive definite matrix.")}
   
   # eigen decomposition
   tmp = eigen(A)
