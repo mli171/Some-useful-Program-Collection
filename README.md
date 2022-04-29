@@ -7,6 +7,7 @@ This folder contains some life-easily-used Rrograms.
 3. AR_correlation matrix.R<br/>
 4. ValueCheck.R<br/>
 5. MatrixSquareRoot.R<br/>
+6. unique_permutation_index.R<br/>
 
 ## Program Instruction: <br/>
 1. del_dup_photos.R <br/>
@@ -24,3 +25,6 @@ Used for checking value in Score/Norm/Objective function values. <br/>
 
 5. MatrixSquareRoot.R<br/>
 Find the suqre root of a positive definite matrix for matrix standardization. <br/>
+
+6. unique_permutation_index.R<br/>
+Get the unique index from completely random permutation or within block permutation. <br/>
