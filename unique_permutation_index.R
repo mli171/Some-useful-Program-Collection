@@ -35,7 +35,7 @@ getPermuteMatrix <-
   }
 
 # 1. complete permutation
-perm.id = as.matrix(getPermuteMatrix(how(nperm = 100), 1:12)
+perm.id = as.matrix(getPermuteMatrix(how(nperm = 100), 1:12))
 
 # 2. within block (4 elements each block) permutation
 perm.id = as.matrix(getPermuteMatrix(how(within=Within("free"), blocks=factor(rep(1:3, each=4)), nperm = 100), 1:12))
