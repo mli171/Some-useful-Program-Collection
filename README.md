@@ -8,6 +8,7 @@ This folder contains some life-easily-used Rrograms.
 4. ValueCheck.R<br/>
 5. MatrixSquareRoot.R<br/>
 6. unique_permutation_index.R<br/>
+7. test_seasonality.R<br/>
 
 ## Program Instruction: <br/>
 1. del_dup_photos.R <br/>
